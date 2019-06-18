@@ -96,13 +96,12 @@ Do not sub4sub scam or you will be reported''', color = 0x00ff00)
        await message.channel.send(embed=embed)
    if message.content == '[info':
        embed = discord.Embed(title='**Info about Youtube and Chill bot**', description='''
-      
-       - Started June 8th 2019
-       - Running at 99% uptime since June 12 2019
-       - Coding language used: python
-       - Running on repl.it with UptimeRobot to keep the code alive 99% of time
-       - Average minumum latency: 10.21 ms
-       - Average maximum latency: 133.08 ms ''', color=0x00ff00)
+**YT AND CHILL BOT INFO**
+- Started June 8th 2019
+- Running at 99% uptime since June 12 2019
+- Coding language used: python
+- Average minumum latency: 10.21 ms
+- Average maximum latency: 133.08 ms ''', color=0x00ff00)
        await message.channel.send(embed=embed)
    if message.content == '[hint info':
        embed = discord.Embed(title='**Get the hint by solving this**', description='''
