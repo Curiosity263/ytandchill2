@@ -37,7 +37,7 @@ async def on_message(message):
 
 **[8ball** - 8ball decides for you, think of a yes or no question, then type [8ball to see your answer
 
-**[coinflip]** - Flip a coin!
+**[coinflip** - Flip a coin!
 
 **[roll** - Roll a dice!
 
@@ -81,7 +81,7 @@ Obey Discord TOS and Community Guidelines
 Do not make unnecessary sounds.
 Do not play any bass boost/earrape music or sounds in voice chats.
 Dont Troll
-Dont use profanity
+Do not use profanity
 Do not play any music regarding 18+ content
 Respect others while they are talking.
 ────────────────
