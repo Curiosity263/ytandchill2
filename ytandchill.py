@@ -264,7 +264,7 @@ Type both answers like this, [<answer1> and <answer2>''', color = 0x00ff00)
    if message.content == '[roll':
        number = randint(1,10)       
        number = str(number)       
-       await message.channel.send('You rolled a'+number)
+       await message.channel.send('You rolled a '+number)
 
 
 TOKEN = 'NTY3NDE4MDc2OTU4ODE4MzE0.XQkCeQ.BG7iZA3_s9Zur4EAiIIK-flc31g'
